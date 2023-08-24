@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9be660de03cdce469c05b8f74889815, type: 3}
+  m_Name: BigVoxel Data SO
+  m_EditorClassIdentifier: 
+  voxel: {fileID: 2940452493484226145, guid: 6415a6797445a6d4e9a5c25784d2becb, type: 3}

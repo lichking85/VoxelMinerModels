@@ -1,0 +1,279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBody
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Bones
+    m_Weight: 1
+  - m_Path: Bones/Hips
+    m_Weight: 1
+  - m_Path: Bones/Hips/LeftUpLeg
+    m_Weight: 0
+  - m_Path: Bones/Hips/LeftUpLeg/LeftLeg
+    m_Weight: 1
+  - m_Path: Bones/Hips/LeftUpLeg/LeftLeg/LeftFoot
+    m_Weight: 1
+  - m_Path: Bones/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+    m_Weight: 1
+  - m_Path: Bones/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftToe_End
+    m_Weight: 1
+  - m_Path: Bones/Hips/RightUpLeg
+    m_Weight: 0
+  - m_Path: Bones/Hips/RightUpLeg/RightLeg
+    m_Weight: 1
+  - m_Path: Bones/Hips/RightUpLeg/RightLeg/RightFoot
+    m_Weight: 1
+  - m_Path: Bones/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+    m_Weight: 1
+  - m_Path: Bones/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightToe_End
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/HandPinky1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/HandPinky1/LeftHandPinky2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/HandPinky1/LeftHandPinky2/LeftHandPinky3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/HandPinky1/LeftHandPinky2/LeftHandPinky3/LeftHandPinky4
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3/LeftHandIndex4
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3/LeftHandMiddle4
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3/LeftHandRing4
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3/LeftHandThumb4
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Face_Acessories
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Face_Acessories/Gasmask
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Face_Acessories/Glasse_1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Face_Acessories/Glasse_2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Face_Acessories/Glasse_3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Face_Acessories/Glasse_4
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Face_Acessories/Mask
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hairs
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hairs/Hair_1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hairs/Hair_2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hairs/Hair_3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hairs/Hair_4
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hairs/Hair_5
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hairs/Hair_6
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hairs/Hair_7
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hats
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hats/Beanie_Crhistmas
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hats/Cap
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hats/News_Hat
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hats/News_Hat/Leather_hat
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hats/News_Hat/Topper_
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End/Head_Customizable/Hats/News_Hat/Witch_s_hat
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3/RightHandIndex4
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3/RightHandMiddle4
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3/RightHandPinky4
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3/RightHandRing4
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+    m_Weight: 1
+  - m_Path: Bones/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3/RightHandThumb4
+    m_Weight: 1
+  - m_Path: Character_Mesh
+    m_Weight: 0
+  - m_Path: Character_Mesh/Shara_Body
+    m_Weight: 0
+  - m_Path: Clothes
+    m_Weight: 0
+  - m_Path: Clothes/Acessories
+    m_Weight: 1
+  - m_Path: Clothes/Acessories/Arm_band_1
+    m_Weight: 1
+  - m_Path: Clothes/Acessories/Arm_band_2
+    m_Weight: 1
+  - m_Path: Clothes/Acessories/Backpack
+    m_Weight: 1
+  - m_Path: Clothes/Acessories/Gloves
+    m_Weight: 1
+  - m_Path: Clothes/Acessories/Headphone_1
+    m_Weight: 1
+  - m_Path: Clothes/Acessories/Holster
+    m_Weight: 1
+  - m_Path: Clothes/Acessories/Money_Belt
+    m_Weight: 1
+  - m_Path: Clothes/Pants
+    m_Weight: 1
+  - m_Path: Clothes/Pants/Pants_1
+    m_Weight: 1
+  - m_Path: Clothes/Pants/Pants_2
+    m_Weight: 1
+  - m_Path: Clothes/Pants/Pants_3
+    m_Weight: 1
+  - m_Path: Clothes/Pants/Pants_4
+    m_Weight: 1
+  - m_Path: Clothes/Pants/Pants_5
+    m_Weight: 1
+  - m_Path: Clothes/Pants/Pants_6
+    m_Weight: 1
+  - m_Path: Clothes/Pants/Pants_Social_1
+    m_Weight: 1
+  - m_Path: Clothes/Pants/Pants_Social_2
+    m_Weight: 1
+  - m_Path: Clothes/Pants/Pants_Social_3
+    m_Weight: 1
+  - m_Path: Clothes/Pants/Short_1
+    m_Weight: 1
+  - m_Path: Clothes/Pants/Short_2
+    m_Weight: 1
+  - m_Path: Clothes/Shirts
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/Shirt_1
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/Shirt_2
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/Shirt_3
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/Shirt_Survival_1
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/Solcial_1
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/Solcial_2
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/Solcial_3
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/Solcial_4
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/Solcial_5
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/T_shirt_1
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/T_shirt_2
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/T_shirt_3
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/Topping_1
+    m_Weight: 1
+  - m_Path: Clothes/Shirts/Topping_3
+    m_Weight: 1
+  - m_Path: Clothes/Shoes
+    m_Weight: 1
+  - m_Path: Clothes/Shoes/Boots_Military
+    m_Weight: 1
+  - m_Path: Clothes/Shoes/Shoe_1
+    m_Weight: 1
+  - m_Path: Clothes/Shoes/Shoe_2
+    m_Weight: 1
+  - m_Path: Clothes/Shoes/Sneaker_1
+    m_Weight: 1
+  - m_Path: Clothes/Shoes/Sneaker_2
+    m_Weight: 1
